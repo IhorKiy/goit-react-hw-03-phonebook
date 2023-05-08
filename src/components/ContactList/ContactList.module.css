@@ -1,0 +1,5 @@
+.list {
+    list-style-type: none;
+    display: block;
+    gap: 10px;
+}
